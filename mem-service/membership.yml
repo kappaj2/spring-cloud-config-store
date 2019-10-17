@@ -6,5 +6,5 @@ member:
   discount: 3
 vehicle:
  default:
-  model: "cross-over"
+  model: crossover
 duration: all
